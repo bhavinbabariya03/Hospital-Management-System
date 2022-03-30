@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\HospitalManagementSystem\HospitalManagementHost\bin\Debug\HospitalManagementHost.exe.config
+C:\Users\Dell\source\repos\HospitalManagementSystem\HospitalManagementHost\bin\Debug\HospitalManagementHost.exe
+C:\Users\Dell\source\repos\HospitalManagementSystem\HospitalManagementHost\bin\Debug\HospitalManagementHost.pdb
+C:\Users\Dell\source\repos\HospitalManagementSystem\HospitalManagementHost\bin\Debug\HospitalManagementSystem.dll
+C:\Users\Dell\source\repos\HospitalManagementSystem\HospitalManagementHost\bin\Debug\HospitalManagementSystem.pdb
+C:\Users\Dell\source\repos\HospitalManagementSystem\HospitalManagementHost\bin\Debug\HospitalManagementSystem.dll.config
+C:\Users\Dell\source\repos\HospitalManagementSystem\HospitalManagementHost\obj\Debug\HospitalManagementHost.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\HospitalManagementSystem\HospitalManagementHost\obj\Debug\HospitalManagementHost.Form1.resources
+C:\Users\Dell\source\repos\HospitalManagementSystem\HospitalManagementHost\obj\Debug\HospitalManagementHost.Properties.Resources.resources
+C:\Users\Dell\source\repos\HospitalManagementSystem\HospitalManagementHost\obj\Debug\HospitalManagementHost.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\HospitalManagementSystem\HospitalManagementHost\obj\Debug\HospitalManagementHost.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\HospitalManagementSystem\HospitalManagementHost\obj\Debug\HospitalManagementHost.csproj.CopyComplete
+C:\Users\Dell\source\repos\HospitalManagementSystem\HospitalManagementHost\obj\Debug\HospitalManagementHost.exe
+C:\Users\Dell\source\repos\HospitalManagementSystem\HospitalManagementHost\obj\Debug\HospitalManagementHost.pdb

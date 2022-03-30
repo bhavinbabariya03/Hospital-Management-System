@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="584f1b02-1a30-4dd9-b912-29dfbaca6505" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8002/HospitalManagementSystem" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="InventoryService.wsdl" MetadataType="Wsdl" ID="62d53a1a-92b7-4d84-b6a1-48ad524b0e72" SourceId="1" SourceUrl="http://localhost:8002/HospitalManagementSystem?wsdl" />
+    <MetadataFile FileName="HospitalManagementSystem.xsd" MetadataType="Schema" ID="a67a7d76-728f-4452-95a2-60a53f53b865" SourceId="1" SourceUrl="http://localhost:8002/HospitalManagementSystem?xsd=xsd0" />
+    <MetadataFile FileName="HospitalManagementSystem1.xsd" MetadataType="Schema" ID="99d5962c-d361-4cad-a4cb-ea0709eecd2b" SourceId="1" SourceUrl="http://localhost:8002/HospitalManagementSystem?xsd=xsd3" />
+    <MetadataFile FileName="HospitalManagementSystem2.xsd" MetadataType="Schema" ID="1428ae24-5fd8-4f76-845c-570cc271a171" SourceId="1" SourceUrl="http://localhost:8002/HospitalManagementSystem?xsd=xsd1" />
+    <MetadataFile FileName="HospitalManagementSystem3.xsd" MetadataType="Schema" ID="06d0b068-6a41-4b8b-b9e8-64d7b94ee521" SourceId="1" SourceUrl="http://localhost:8002/HospitalManagementSystem?xsd=xsd2" />
+    <MetadataFile FileName="HospitalManagementSystem.disco" MetadataType="Disco" ID="576c1aa4-f63b-4afb-84b9-de4f9ccf861b" SourceId="1" SourceUrl="http://localhost:8002/HospitalManagementSystem?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

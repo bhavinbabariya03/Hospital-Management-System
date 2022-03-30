@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.dll.config
+C:\Users\Dell\source\repos\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.dll
+C:\Users\Dell\source\repos\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+C:\Users\Dell\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.dll
+C:\Users\Dell\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
